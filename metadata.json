@@ -1,0 +1,6 @@
+{
+  "name": "Daily Routine",
+  "description": "Daily Routine & Habit Tracker with time-blocked schedule, streak tracking, routine templates, and reflection logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
